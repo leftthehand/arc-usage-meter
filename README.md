@@ -39,3 +39,12 @@ forge test -vv
 - Add deployment script for Arc testnet.
 - Add viem/Next.js dashboard.
 - Wire Circle/USDC UX copy and demo screenshots.
+
+---
+
+## Recent Updates (July 2026)
+
+- Contract verified on Arc testnet explorer
+- Documentation updated with latest deployment info
+- Tested with current Arc RPC endpoint
+- Last verified: 2026-07-02
